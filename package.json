@@ -1,0 +1,16 @@
+{
+  "name": "easyaccess",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "Personal dashboard for Canvas, Google Calendar and Outlook",
+  "dependencies": {
+    "imapflow": "^2.12.1",
+    "mailparser": "^3.14.5",
+    "node-ical": "^0.27.6"
+  },
+  "type": "module",
+  "private": true
+}
